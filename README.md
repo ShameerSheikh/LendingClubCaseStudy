@@ -4,12 +4,14 @@
 
 Lending loans to ‘risky’ applicants is the largest source of financial loss
 (called credit loss). The credit loss is the amount of money lost by the lender 
-when the borrower refusesto pay or runs away with the money owed.  
+when the borrower refuses to pay or runs away with the money owed.  
 
+# Objective
 The main objective is to be able to identify these risky loan applicants, 
 then such loans can be reduced thereby cutting down the amount of credit loss. 
 Identification of such applicants using EDA is the aim of this case study.   
 
+# Analysis
 Perform an analysis to understand the driving factors (or driver variables)
 behind loan default, i.e.the variables which are strong indicators of default.  
 The company can utilise this knowledge for its portfolio and risk assessment. 
@@ -21,6 +23,6 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 # Step 5: Results
 
 # Contributors: 
-Shameer Sheik and Avi Singh
+Team Member: Mr.Shameer Sheik, Group Facilitator: Mr.Avi Singh
 
 # Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
